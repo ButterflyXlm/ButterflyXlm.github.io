@@ -1,30 +1,32 @@
 VERSION = "2.0.0"
 
+NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
+
 ACCOUNTS = [
-  "GAP2IR4OHUGOSJ24PE7L4YNMH6UJ6GUYV2XYAWYDYWNXBRQ2SOSY3FDL"
+"GAP2IR4OHUGOSJ24PE7L4YNMH6UJ6GUYV2XYAWYDYWNXBRQ2SOSY3FDL"
 ]
 
 [DOCUMENTATION]
-ORG_NAME = "Butterfly"
-ORG_URL = "https://adelaynsinger-max.github.io/Butterfly/"
+ORG_NAME = "ButterflyXlm"
+ORG_URL = "https://butterflyxlm.github.io"
 
 [[CURRENCIES]]
-code = "Bi12L"
+code = "BI12L"
 issuer = "GAP2IR4OHUGOSJ24PE7L4YNMH6UJ6GUYV2XYAWYDYWNXBRQ2SOSY3FDL"
 name = "Bi12L"
-desc = "Bi12L — Butterfly project token."
-image = "https://adelaynsinger-max.github.io/Butterfly/file_00000000d4a881fdb41437a2a2f86da1.png"
+desc = "ButterflyXlm digital asset series Bi12L"
+image = "https://butterflyxlm.github.io/file_00000000d4a881fdb41437a2a2f86da1.png"
 
 [[CURRENCIES]]
-code = "Bi13L"
+code = "BI13L"
 issuer = "GAP2IR4OHUGOSJ24PE7L4YNMH6UJ6GUYV2XYAWYDYWNXBRQ2SOSY3FDL"
 name = "Bi13L"
-desc = "Bi13L — Butterfly project token."
-image = "https://adelaynsinger-max.github.io/Butterfly/file_00000000de888230bf48e45d866f4cce.png"
+desc = "ButterflyXlm digital asset series Bi13L"
+image = "https://butterflyxlm.github.io/file_0000000030bc81fdbc0b78fe433a5698.png"
 
 [[CURRENCIES]]
-code = "Bi14L"
+code = "BI14L"
 issuer = "GAP2IR4OHUGOSJ24PE7L4YNMH6UJ6GUYV2XYAWYDYWNXBRQ2SOSY3FDL"
 name = "Bi14L"
-desc = "Bi14L — Butterfly project token."
-image = "https://adelaynsinger-max.github.io/Butterfly/file_00000000961c81fd9f6a9c33ccd67ef0.png"
+desc = "ButterflyXlm digital asset series Bi14L"
+image = "https://butterflyxlm.github.io/file_00000000961c81fd9f6a9c33ccd67ef0.png"
